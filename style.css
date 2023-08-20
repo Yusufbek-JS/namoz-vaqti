@@ -127,6 +127,11 @@
   border-radius: 25px;
   background: rgba(255, 255, 255, 0.20);
   box-shadow: 0px 10px 100px 10px rgba(255, 255, 255, 0.20);
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.section-tong:hover{
+  transform: scale(1.05 , 1.05);
 }
 .section-tong-text {
   color: #FFC700;
@@ -154,6 +159,11 @@
   border-radius: 25px;
   background: rgba(255, 255, 255, 0.20);
   box-shadow: 0px 10px 100px 10px rgba(255, 255, 255, 0.20);
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.section-quyosh:hover{
+  transform: scale(1.05 , 1.05);
 }
 .section-peshin {
   position: absolute;
@@ -165,6 +175,11 @@
   border-radius: 25px;
   background: rgba(255, 255, 255, 0.20);
   box-shadow: 0px 10px 100px 10px rgba(255, 255, 255, 0.20);
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.section-peshin:hover{
+  transform: scale(1.05 , 1.05);
 }
 .section-asr {
   position: absolute;
@@ -176,6 +191,11 @@
   border-radius: 25px;
   background: rgba(255, 255, 255, 0.20);
   box-shadow: 0px 10px 100px 10px rgba(255, 255, 255, 0.20);
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.section-asr:hover {
+  transform: scale(1.05 , 1.05);
 }
 .section-shom {
   position: absolute;
@@ -187,6 +207,11 @@
   border-radius: 25px;
   background: rgba(255, 255, 255, 0.20);
   box-shadow: 0px 10px 100px 10px rgba(255, 255, 255, 0.20);
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.section-shom:hover {
+  transform: scale(1.05 , 1.05);
 }
 .section-xufton {
   position: absolute;
@@ -198,4 +223,9 @@
   border-radius: 25px;
   background: rgba(255, 255, 255, 0.20);
   box-shadow: 0px 10px 100px 10px rgba(255, 255, 255, 0.20);
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.section-xufton:hover {
+  transform: scale(1.05 , 1.05);
 }
